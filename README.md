@@ -27,12 +27,6 @@ I hope you enjoyed reading my profile!
 <h3 align="center">Languages I know:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   
-  <p align="center"> <a href="https://twitter.com/cub1xty" target="blank"><img src="https://img.shields.io/twitter/follow/cub1xty?logo=twitter&style=for-the-badge" alt="cub1xty" /></a> </p>
-  <p align="center">
   
-  <p align="center">
-  <img 
-    width=
-    height=
-    src="(https://lanyard-profile-readme.vercel.app/api/771036335170388029)](https://discord.com/users/771036335170388029)"
-  </p>
+  
+ 
