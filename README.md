@@ -1,5 +1,3 @@
 ```js
-      Instgram : "@cub1xty"
+      Instagram : "@cub1xty"
       Telegram : t.me/@cubixty
-     
-      
