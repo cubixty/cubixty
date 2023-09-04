@@ -1,2 +1,2 @@
 ```js
-      Instagram : @cub1xy
+      Instagram : @cub1xty
