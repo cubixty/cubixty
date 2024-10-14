@@ -1,5 +1,5 @@
 ```js
-       Email : contact@cubixty.com
+       Email : personal@cubixty.com
        Instagram : @cub1xty
        Discord : @cubixty
        Telegram : @cubixty
