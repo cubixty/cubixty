@@ -1,4 +1,4 @@
-```js
+```html
        Instagram : @cub1xty
-       Discord : @cubixty | discord.gg/algerians
+       Discord : @cubixty 
        Telegram : @cubixty
